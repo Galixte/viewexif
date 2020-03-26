@@ -1,11 +1,12 @@
 View Exif
 ===========
-viewexif display some exif data for attached images. It will not work for images linked from other sources using the bbCode [img] or for images in signatures, avatars etc.
+viewexif display some exif data for attached images. It will **not** work for images linked from other sources using the bbCode [img] or for images in signatures, avatars etc.
 
 
 ## Requirements
 * phpBB 3.1.6-RC1 or higher
 * PHP 5.3.3 or higher
+* PHP exif library installed (should be by default in a regular PHP installation)
 
 
 ## Quick Installation
